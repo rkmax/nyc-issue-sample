@@ -1,0 +1,3 @@
+{
+  "ignore-class-method": ["main", "evaluate", "Page.evaluate"]
+}
